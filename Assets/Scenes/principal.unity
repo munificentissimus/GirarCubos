@@ -127,6 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   feedback: {fileID: 2128683023}
+  distanciaMinimaMovimento: 10.1899996
 --- !u!1001 &620365437
 Prefab:
   m_ObjectHideFlags: 0
